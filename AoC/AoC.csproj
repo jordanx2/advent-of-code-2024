@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Day1.Day1Solution</StartupObject>
+    <StartupObject>Day2.Day2Solution</StartupObject>
   </PropertyGroup>
 
 </Project>
